@@ -7,7 +7,7 @@
 		</update>
 	</info>
 	
-	<element name="Elf" type="Race" source="One D&D" id="ID_ONEDND_RACE_ELF">
+	<element name="Elf" type="Race" source="One DND" id="ID_ONEDND_RACE_ELF">
 		<description>
 			<p>WORK IN PROGRESS</p>
 		</description>
