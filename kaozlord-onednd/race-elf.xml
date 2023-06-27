@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<name>Elf</name>
-		<update version="0.0.1">
+		<update version="0.0.2">
 			<file name="race-elf.xml" url="https://raw.githubusercontent.com/faustolazala/onednd-repository/master/kaozlord-onednd/race-elf.xml" />
 		</update>
 	</info>
@@ -31,6 +31,7 @@
 			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_FEY_ANCESTRY_ONEDND" />
 			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_TRANCE_ONEDND" />
 			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_ELVEN_LINEAGE_ONEDND" />
+			<select type="Lineage" name="Elven Lineage" supports="Elf" optional="true" />
 		</rules>
 	</element>
 	
