@@ -5,10 +5,10 @@
 		<description>The material presentend in the One D&amp;D Playtest</description>
 		<author url="https://www.dndbeyond.com/sources/ua">Wizards of the Coast</author>
 		<update version="0.0.1">
-			<file name="onednd.index" url="https://raw.githubusercontent.com/faustolazala/onednd-repository/master/onednd.index" />
+			<file name="onednd.index" url="https://raw.githubusercontent.com/faustolazala/onednd-repository/main/onednd.index" />
 		</update>
 	</info>
 	<files>
-		<file name="race-elf.xml" url="https://raw.githubusercontent.com/faustolazala/onednd-repository/master/onednd/race-elf.xml" />
+		<file name="race-elf.xml" url="https://raw.githubusercontent.com/faustolazala/onednd-repository/main/onednd/race-elf.xml" />
 	</files>
 </index>
