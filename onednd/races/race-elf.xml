@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<name>Elf</name>
-		<update version="0.0.2">
+		<update version="0.0.1">
 			<file name="race-elf.xml" url="https://raw.githubusercontent.com/faustolazala/onednd-repository/master/onednd/races/race-elf.xml" />
 		</update>
 	</info>
